@@ -1,0 +1,13 @@
+
+{
+  "name": "tech-test-website",
+  "version": "1.0.0",
+  "description": "A simple website for a one-day tech event.",
+  "main": "generate_schedule.js",
+  "scripts": {
+    "generate": "node generate_schedule.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
